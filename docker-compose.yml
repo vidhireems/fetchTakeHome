@@ -1,0 +1,10 @@
+version: '3.11'
+
+services:
+  fastapi-app:
+    build: .
+    ports:
+      - "8000:8000"
+    restart: always
+    volumes:
+      - .:/app

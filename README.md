@@ -1,1 +1,2 @@
-# fetchTakeHome
+Run:
+docker-compose up --build

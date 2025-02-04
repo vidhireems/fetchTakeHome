@@ -56,5 +56,5 @@ These rules collectively define how many points should be awarded to a receipt.
 
 
 
-#Run:
-##docker-compose up --build
+# Run:
+## docker-compose up --build
